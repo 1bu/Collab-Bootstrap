@@ -9,3 +9,19 @@ body{
 form {
     width: 60%;
 }
+
+h3 {
+    color: black;
+    text-align: left;
+    font-size: 36px;
+}
+
+span {
+    color: gray;
+}
+
+p {
+    color: black;
+    text-align: left;
+    font-size: 17px;
+}
