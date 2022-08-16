@@ -9,3 +9,12 @@ body{
 form {
     width: 60%;
 }
+
+.project-name{
+    color:#43759e;
+    margin-top: 20px;
+}
+
+.container{
+    font-size: 18px;
+}
