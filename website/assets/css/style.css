@@ -10,6 +10,7 @@ form {
     width: 60%;
 }
 
+
 h3 {
     color: black;
     text-align: left;
@@ -24,4 +25,12 @@ p {
     color: black;
     text-align: left;
     font-size: 17px;
+    
+.project-name{
+    color:#43759e;
+    margin-top: 20px;
+}
+
+.container{
+    font-size: 18px;
 }
