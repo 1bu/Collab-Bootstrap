@@ -37,3 +37,13 @@ p {
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
+.porfolio-description {
+    font-size: 20px !important;
+    color: black;
+}
+
+.porfolio-text{
+    font-size: 13px !important;
+    color: black;
+}
