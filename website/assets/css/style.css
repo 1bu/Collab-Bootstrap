@@ -47,20 +47,3 @@ p {
     font-size: 13px !important;
     color: black;
 }
-
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-h1{
-    font-size: 60px;
-    color: black;
-}
-
-h2{
-    font-size: 50px;
-    color: black;
-}
